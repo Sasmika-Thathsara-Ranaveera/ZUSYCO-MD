@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94762994939",
-  SUDO_NUMBERS : "94715166712,94719574492",
+  OWNER_NUMBER: "94719208009",
+  SUDO_NUMBERS : "94719208009,94762994939",
   OWNER_NAME: "『 sasmika thathsara 』",
   BOT_NAME : "ᴀsᴛʀᴏ ʙᴏᴛ",
   ZUSYCO_FILE : "ZUSYCO-QR",
